@@ -1,0 +1,5 @@
+{
+  "name": "Image to STL Converter",
+  "description": "A web application to convert a 2D image (heightmap) into a 3D printable .STL file. Upload an image, adjust the 3D parameters, and download your model.",
+  "requestFramePermissions": []
+}
