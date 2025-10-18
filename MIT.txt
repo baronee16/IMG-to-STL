@@ -1,0 +1,36 @@
+MIT License
+
+Copyright (c) 2025 Resin Reef Studio
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights 
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell 
+copies of the Software, and to permit persons to whom the Software is 
+furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included 
+   in all copies or substantial portions of the Software.
+
+2. The Software is provided "as is", without warranty of any kind, express 
+   or implied, including but not limited to the warranties of merchantability, 
+   fitness for a particular purpose and noninfringement. In no event shall 
+   the authors or copyright holders be liable for any claim, damages or other 
+   liability, whether in an action of contract, tort or otherwise, arising from, 
+   out of or in connection with the Software or the use or other dealings in the 
+   Software.
+
+3. This software includes output generated from third-party services including 
+   but not limited to Google AI Studio, OpenSCAD, and slicing software such as 
+   Cura. The user is responsible for complying with the licenses and terms of 
+   those services when using this Software in conjunction with them.
+
+4. STL and G-code files generated using this project are provided for personal 
+   and commercial use, provided attribution to this repository and Resin Reef Studio 
+   is included in any public-facing usage.
+
+---
+
+Created by: Resin Reef Studio  
+Project: IMG to STL - Image Conversion for 3D Challenge Coin Printing  
+Year: 2025
